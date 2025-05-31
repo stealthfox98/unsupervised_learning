@@ -7,5 +7,5 @@ This repo contains some use cases where ML models learn from unlabeled data, all
 * Structures within the data
 
 Common tech stack used:
-* Programming language(s): Python, JavaScript
+* Programming language(s): Python
 * Framework(s) used: Tensorflow, PyTorch, Scikit-Learn
